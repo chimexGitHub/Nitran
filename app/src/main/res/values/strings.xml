@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Nkanyi</string>
+
+    <string name="category_igbo">Igbo</string>
+
+    <string name="category_hausa">Hausa</string>
+
+    <string name="category_yoruba">Yoruba</string>
+
+    <string name="category_ijaw">Ijaw</string>
+
+    <string name="category_ibibio">Ibibio/Efik</string>
+
+    <string name="category_urhobo">Urhobo</string>
+
+    <string name="category_obolo">Obolo</string>
+
+    <string name="category_pidgin">Pidgin</string>
+
+    <string name="category_isoko">Isoko</string>
+
+    <string name="category_esan">Esan</string>
+
+    <string name="category_idoma">Idoma</string>
+
+    <string name="category_aboutNitran">
+        NiTran(9Tran) is a Multi - Lingua Translation Mobile App made by Nigerians,
+        in Nigeria, for Nigerians in Diaspora and Individuals all over the
+        World interested in learning any of the listed Nigerian languages. \n
+        Language is the dress of thought. It has life, it is either living
+        or dead, Our languages must not die!!!
+
+    </string>
+
+    <string name="category_creditsNitran">
+        We like to Thank the entire \n
+
+        <b>CO2 GLOBAL SERVICES LIMITED</b> \n
+        Community, \n Testers, \n Users, \n Contributors \n
+        and the following persons, \n
+
+        <b><i>Google</i></b>  \n
+        <b><i>Udacity</i></b> \n
+        <b><i>SSA Relation Team</i></b>  \n
+
+
+        <b><i>GDG Oko community</i></b> \n
+
+
+        <b><i>Aniedi Ubong</i></b> \n <b><i>Femi Taiwo</i></b> \n
+
+        <b><i>Hanson Johnson</i></b> \n <b><i>Okeke Ifeyinwa</i></b> \n
+
+        <b><i>Ibrahim</i></b> \n <b><i>Maxwell Bob</i></b> \n
+
+        <b><i>Abala Godwin</i></b> \n <b><i>Okegbe Kingsley</i></b> \n <b><i>Madu Josephine</i></b> \n
+
+        <b><i>Igbokwe Chidimma</i></b> \n
+
+        <b><i>Mercy Okpoko</i></b> \n
+
+        <b><i>Umeh Ifeanyi Vincent(Alaba)</i></b> \n
+
+        <b><i>Attah Samuel</i></b> \n
+
+        <b><i>Awaikpo Justina</i></b> \n
+
+        <b><i>Okeke Chimezie(Chimex)</i></b>
+
+
+
+
+    </string>
+
+    <string name="category_copyright">Copyright &#169; 2017 CO2 Limited</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>

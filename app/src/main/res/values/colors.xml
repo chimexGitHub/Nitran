@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorAccent">#66BB6A</color>
+    <color name="tan_background">#E8F5E9</color>
+
+    <color name="category_igbo">#000000</color>
+    <color name="category_hausa">#000000</color>
+    <color name="category_yoruba">#000000</color>
+    <color name="category_urhobo">#000000</color>
+    <color name="category_ijaw">#000000</color>
+    <color name="category_ibibio">#000000</color>
+    <color name="category_obolo">#000000</color>
+    <color name="category_pidgin">#000000</color>
+
+    //#3F51B5
+</resources>

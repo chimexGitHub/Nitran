@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+
+    >
+
+
+    <item android:id="@+id/search_bar"
+        android:title="Search"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+
+        />
+
+    <item android:id="@+id/credit_nitran"
+        android:title="Credits"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/contribute_nitran"
+        android:title="FeedBacks"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/about_nitran"
+        android:title="About"
+        android:orderInCategory="4"
+        app:showAsAction="never"
+        />
+    <!--app:showAsAction="always"-->
+    <!--android:title="@string/help"-->
+</menu>
