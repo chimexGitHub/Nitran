@@ -6,3 +6,5 @@ well help anyone learn any of the listed languages...
 
 
 Everyone is welcome to contribute and improve on it.
+
+just send a PR.
